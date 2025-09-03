@@ -50,6 +50,7 @@ Build a comprehensive micro freelance marketplace platform that connects clients
 - Automatic bid notifications
 
 ### 1.3 Milestone & Progress Management
+
 - Break tasks into measurable milestones
 - Each milestone includes:
   - Description and deliverables
@@ -60,6 +61,7 @@ Build a comprehensive micro freelance marketplace platform that connects clients
 - Revision request system with feedback comments
 
 ### 1.4 Communication System
+
 **Real-time Messaging:**
 - Task-specific chat rooms between client and freelancer
 - File sharing capability within messages
@@ -87,14 +89,7 @@ Build a comprehensive micro freelance marketplace platform that connects clients
 - Client spending analytics
 - Tax document generation (1099 forms)
 
-### 1.6 Rating & Review System
-- Dual rating system (client rates freelancer, freelancer rates client)
-- 5-star rating with detailed review comments
-- Rating criteria breakdown (communication, quality, timeliness)
-- Public profile display of ratings and reviews
-- Response system for addressing negative reviews
-
-### 1.7 Search & Discovery
+### 1.6 Search & Discovery
 - Advanced task filtering (category, budget, deadline, location)
 - Freelancer search with skill matching
 - Saved searches and alerts
